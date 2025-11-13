@@ -1,7 +1,7 @@
 import pygame
 import math
 import numpy as np
-
+#dwa
 class Config:
     def __init__(self):
 
